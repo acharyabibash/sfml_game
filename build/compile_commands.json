@@ -1,0 +1,42 @@
+[
+{
+  "directory": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\nibbles.dir\\src\\main.cpp.obj -c \"C:\\Users\\Eastpoint\\Desktop\\SFML Group\\nibbles-Homework\\src\\main.cpp\"",
+  "file": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/main.cpp"
+},
+{
+  "directory": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\nibbles.dir\\src\\engine.cpp.obj -c \"C:\\Users\\Eastpoint\\Desktop\\SFML Group\\nibbles-Homework\\src\\engine.cpp\"",
+  "file": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/engine.cpp"
+},
+{
+  "directory": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\nibbles.dir\\src\\draw.cpp.obj -c \"C:\\Users\\Eastpoint\\Desktop\\SFML Group\\nibbles-Homework\\src\\draw.cpp\"",
+  "file": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/draw.cpp"
+},
+{
+  "directory": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\nibbles.dir\\src\\input.cpp.obj -c \"C:\\Users\\Eastpoint\\Desktop\\SFML Group\\nibbles-Homework\\src\\input.cpp\"",
+  "file": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/input.cpp"
+},
+{
+  "directory": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\nibbles.dir\\src\\snakesection.cpp.obj -c \"C:\\Users\\Eastpoint\\Desktop\\SFML Group\\nibbles-Homework\\src\\snakesection.cpp\"",
+  "file": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/snakesection.cpp"
+},
+{
+  "directory": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\nibbles.dir\\src\\update.cpp.obj -c \"C:\\Users\\Eastpoint\\Desktop\\SFML Group\\nibbles-Homework\\src\\update.cpp\"",
+  "file": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/update.cpp"
+},
+{
+  "directory": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\nibbles.dir\\src\\apple.cpp.obj -c \"C:\\Users\\Eastpoint\\Desktop\\SFML Group\\nibbles-Homework\\src\\apple.cpp\"",
+  "file": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/apple.cpp"
+},
+{
+  "directory": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\nibbles.dir\\src\\wall.cpp.obj -c \"C:\\Users\\Eastpoint\\Desktop\\SFML Group\\nibbles-Homework\\src\\wall.cpp\"",
+  "file": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/wall.cpp"
+}
+]
