@@ -176,6 +176,30 @@ src/Game.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/Game.cpp.s
 .PHONY : src/Game.cpp.s
 
+src/MainMenu.obj: src/MainMenu.cpp.obj
+.PHONY : src/MainMenu.obj
+
+# target to build an object file
+src/MainMenu.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/MainMenu.cpp.obj
+.PHONY : src/MainMenu.cpp.obj
+
+src/MainMenu.i: src/MainMenu.cpp.i
+.PHONY : src/MainMenu.i
+
+# target to preprocess a source file
+src/MainMenu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/MainMenu.cpp.i
+.PHONY : src/MainMenu.cpp.i
+
+src/MainMenu.s: src/MainMenu.cpp.s
+.PHONY : src/MainMenu.s
+
+# target to generate assembly for a file
+src/MainMenu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/MainMenu.cpp.s
+.PHONY : src/MainMenu.cpp.s
+
 src/StateMan.obj: src/StateMan.cpp.obj
 .PHONY : src/StateMan.obj
 
@@ -239,6 +263,9 @@ help:
 	@echo ... src/Game.obj
 	@echo ... src/Game.i
 	@echo ... src/Game.s
+	@echo ... src/MainMenu.obj
+	@echo ... src/MainMenu.i
+	@echo ... src/MainMenu.s
 	@echo ... src/StateMan.obj
 	@echo ... src/StateMan.i
 	@echo ... src/StateMan.s
