@@ -83,133 +83,14 @@ CMakeFiles/nibbles.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/nibbles.dir/src/main.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\main.cpp" -o CMakeFiles\nibbles.dir\src\main.cpp.s
 
-CMakeFiles/nibbles.dir/src/engine.cpp.obj: CMakeFiles/nibbles.dir/flags.make
-CMakeFiles/nibbles.dir/src/engine.cpp.obj: CMakeFiles/nibbles.dir/includes_CXX.rsp
-CMakeFiles/nibbles.dir/src/engine.cpp.obj: ../src/engine.cpp
-CMakeFiles/nibbles.dir/src/engine.cpp.obj: CMakeFiles/nibbles.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/nibbles.dir/src/engine.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/nibbles.dir/src/engine.cpp.obj -MF CMakeFiles\nibbles.dir\src\engine.cpp.obj.d -o CMakeFiles\nibbles.dir\src\engine.cpp.obj -c "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\engine.cpp"
-
-CMakeFiles/nibbles.dir/src/engine.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/nibbles.dir/src/engine.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\engine.cpp" > CMakeFiles\nibbles.dir\src\engine.cpp.i
-
-CMakeFiles/nibbles.dir/src/engine.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/nibbles.dir/src/engine.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\engine.cpp" -o CMakeFiles\nibbles.dir\src\engine.cpp.s
-
-CMakeFiles/nibbles.dir/src/draw.cpp.obj: CMakeFiles/nibbles.dir/flags.make
-CMakeFiles/nibbles.dir/src/draw.cpp.obj: CMakeFiles/nibbles.dir/includes_CXX.rsp
-CMakeFiles/nibbles.dir/src/draw.cpp.obj: ../src/draw.cpp
-CMakeFiles/nibbles.dir/src/draw.cpp.obj: CMakeFiles/nibbles.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/nibbles.dir/src/draw.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/nibbles.dir/src/draw.cpp.obj -MF CMakeFiles\nibbles.dir\src\draw.cpp.obj.d -o CMakeFiles\nibbles.dir\src\draw.cpp.obj -c "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\draw.cpp"
-
-CMakeFiles/nibbles.dir/src/draw.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/nibbles.dir/src/draw.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\draw.cpp" > CMakeFiles\nibbles.dir\src\draw.cpp.i
-
-CMakeFiles/nibbles.dir/src/draw.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/nibbles.dir/src/draw.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\draw.cpp" -o CMakeFiles\nibbles.dir\src\draw.cpp.s
-
-CMakeFiles/nibbles.dir/src/input.cpp.obj: CMakeFiles/nibbles.dir/flags.make
-CMakeFiles/nibbles.dir/src/input.cpp.obj: CMakeFiles/nibbles.dir/includes_CXX.rsp
-CMakeFiles/nibbles.dir/src/input.cpp.obj: ../src/input.cpp
-CMakeFiles/nibbles.dir/src/input.cpp.obj: CMakeFiles/nibbles.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/nibbles.dir/src/input.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/nibbles.dir/src/input.cpp.obj -MF CMakeFiles\nibbles.dir\src\input.cpp.obj.d -o CMakeFiles\nibbles.dir\src\input.cpp.obj -c "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\input.cpp"
-
-CMakeFiles/nibbles.dir/src/input.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/nibbles.dir/src/input.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\input.cpp" > CMakeFiles\nibbles.dir\src\input.cpp.i
-
-CMakeFiles/nibbles.dir/src/input.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/nibbles.dir/src/input.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\input.cpp" -o CMakeFiles\nibbles.dir\src\input.cpp.s
-
-CMakeFiles/nibbles.dir/src/snakesection.cpp.obj: CMakeFiles/nibbles.dir/flags.make
-CMakeFiles/nibbles.dir/src/snakesection.cpp.obj: CMakeFiles/nibbles.dir/includes_CXX.rsp
-CMakeFiles/nibbles.dir/src/snakesection.cpp.obj: ../src/snakesection.cpp
-CMakeFiles/nibbles.dir/src/snakesection.cpp.obj: CMakeFiles/nibbles.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/nibbles.dir/src/snakesection.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/nibbles.dir/src/snakesection.cpp.obj -MF CMakeFiles\nibbles.dir\src\snakesection.cpp.obj.d -o CMakeFiles\nibbles.dir\src\snakesection.cpp.obj -c "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\snakesection.cpp"
-
-CMakeFiles/nibbles.dir/src/snakesection.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/nibbles.dir/src/snakesection.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\snakesection.cpp" > CMakeFiles\nibbles.dir\src\snakesection.cpp.i
-
-CMakeFiles/nibbles.dir/src/snakesection.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/nibbles.dir/src/snakesection.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\snakesection.cpp" -o CMakeFiles\nibbles.dir\src\snakesection.cpp.s
-
-CMakeFiles/nibbles.dir/src/update.cpp.obj: CMakeFiles/nibbles.dir/flags.make
-CMakeFiles/nibbles.dir/src/update.cpp.obj: CMakeFiles/nibbles.dir/includes_CXX.rsp
-CMakeFiles/nibbles.dir/src/update.cpp.obj: ../src/update.cpp
-CMakeFiles/nibbles.dir/src/update.cpp.obj: CMakeFiles/nibbles.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/nibbles.dir/src/update.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/nibbles.dir/src/update.cpp.obj -MF CMakeFiles\nibbles.dir\src\update.cpp.obj.d -o CMakeFiles\nibbles.dir\src\update.cpp.obj -c "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\update.cpp"
-
-CMakeFiles/nibbles.dir/src/update.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/nibbles.dir/src/update.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\update.cpp" > CMakeFiles\nibbles.dir\src\update.cpp.i
-
-CMakeFiles/nibbles.dir/src/update.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/nibbles.dir/src/update.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\update.cpp" -o CMakeFiles\nibbles.dir\src\update.cpp.s
-
-CMakeFiles/nibbles.dir/src/apple.cpp.obj: CMakeFiles/nibbles.dir/flags.make
-CMakeFiles/nibbles.dir/src/apple.cpp.obj: CMakeFiles/nibbles.dir/includes_CXX.rsp
-CMakeFiles/nibbles.dir/src/apple.cpp.obj: ../src/apple.cpp
-CMakeFiles/nibbles.dir/src/apple.cpp.obj: CMakeFiles/nibbles.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/nibbles.dir/src/apple.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/nibbles.dir/src/apple.cpp.obj -MF CMakeFiles\nibbles.dir\src\apple.cpp.obj.d -o CMakeFiles\nibbles.dir\src\apple.cpp.obj -c "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\apple.cpp"
-
-CMakeFiles/nibbles.dir/src/apple.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/nibbles.dir/src/apple.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\apple.cpp" > CMakeFiles\nibbles.dir\src\apple.cpp.i
-
-CMakeFiles/nibbles.dir/src/apple.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/nibbles.dir/src/apple.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\apple.cpp" -o CMakeFiles\nibbles.dir\src\apple.cpp.s
-
-CMakeFiles/nibbles.dir/src/wall.cpp.obj: CMakeFiles/nibbles.dir/flags.make
-CMakeFiles/nibbles.dir/src/wall.cpp.obj: CMakeFiles/nibbles.dir/includes_CXX.rsp
-CMakeFiles/nibbles.dir/src/wall.cpp.obj: ../src/wall.cpp
-CMakeFiles/nibbles.dir/src/wall.cpp.obj: CMakeFiles/nibbles.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/nibbles.dir/src/wall.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/nibbles.dir/src/wall.cpp.obj -MF CMakeFiles\nibbles.dir\src\wall.cpp.obj.d -o CMakeFiles\nibbles.dir\src\wall.cpp.obj -c "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\wall.cpp"
-
-CMakeFiles/nibbles.dir/src/wall.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/nibbles.dir/src/wall.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\wall.cpp" > CMakeFiles\nibbles.dir\src\wall.cpp.i
-
-CMakeFiles/nibbles.dir/src/wall.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/nibbles.dir/src/wall.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\src\wall.cpp" -o CMakeFiles\nibbles.dir\src\wall.cpp.s
-
 # Object files for target nibbles
 nibbles_OBJECTS = \
-"CMakeFiles/nibbles.dir/src/main.cpp.obj" \
-"CMakeFiles/nibbles.dir/src/engine.cpp.obj" \
-"CMakeFiles/nibbles.dir/src/draw.cpp.obj" \
-"CMakeFiles/nibbles.dir/src/input.cpp.obj" \
-"CMakeFiles/nibbles.dir/src/snakesection.cpp.obj" \
-"CMakeFiles/nibbles.dir/src/update.cpp.obj" \
-"CMakeFiles/nibbles.dir/src/apple.cpp.obj" \
-"CMakeFiles/nibbles.dir/src/wall.cpp.obj"
+"CMakeFiles/nibbles.dir/src/main.cpp.obj"
 
 # External object files for target nibbles
 nibbles_EXTERNAL_OBJECTS =
 
 nibbles.exe: CMakeFiles/nibbles.dir/src/main.cpp.obj
-nibbles.exe: CMakeFiles/nibbles.dir/src/engine.cpp.obj
-nibbles.exe: CMakeFiles/nibbles.dir/src/draw.cpp.obj
-nibbles.exe: CMakeFiles/nibbles.dir/src/input.cpp.obj
-nibbles.exe: CMakeFiles/nibbles.dir/src/snakesection.cpp.obj
-nibbles.exe: CMakeFiles/nibbles.dir/src/update.cpp.obj
-nibbles.exe: CMakeFiles/nibbles.dir/src/apple.cpp.obj
-nibbles.exe: CMakeFiles/nibbles.dir/src/wall.cpp.obj
 nibbles.exe: CMakeFiles/nibbles.dir/build.make
 nibbles.exe: C:/SFML/lib/libsfml-system-d.a
 nibbles.exe: C:/SFML/lib/libsfml-window-d.a
@@ -217,7 +98,7 @@ nibbles.exe: C:/SFML/lib/libsfml-graphics-d.a
 nibbles.exe: CMakeFiles/nibbles.dir/linklibs.rsp
 nibbles.exe: CMakeFiles/nibbles.dir/objects1.rsp
 nibbles.exe: CMakeFiles/nibbles.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable nibbles.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Eastpoint\Desktop\SFML Group\nibbles-Homework\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable nibbles.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\nibbles.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

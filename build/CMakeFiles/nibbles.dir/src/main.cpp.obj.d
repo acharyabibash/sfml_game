@@ -1,7 +1,5 @@
 CMakeFiles/nibbles.dir/src/main.cpp.obj: \
  C:\Users\Eastpoint\Desktop\SFML\ Group\nibbles-Homework\src\main.cpp \
- C:/Users/EASTPO~1/Desktop/SFMLGR~1/NIBBLE~1/headers/engine.hpp \
- C:/Users/EASTPO~1/Desktop/SFMLGR~1/NIBBLE~1/headers/snakesection.hpp \
  c:/SFML/include/SFML/Graphics.hpp c:/SFML/include/SFML/Window.hpp \
  c:/SFML/include/SFML/System.hpp c:/SFML/include/SFML/Config.hpp \
  c:/SFML/include/SFML/System/Clock.hpp \
@@ -243,13 +241,4 @@ CMakeFiles/nibbles.dir/src/main.cpp.obj: \
  c:/SFML/include/SFML/Graphics/Glsl.inl \
  c:/SFML/include/SFML/Graphics/Sprite.hpp \
  c:/SFML/include/SFML/Graphics/Text.hpp \
- c:/SFML/include/SFML/Graphics/VertexBuffer.hpp \
- C:/Users/EASTPO~1/Desktop/SFMLGR~1/NIBBLE~1/headers/apple.hpp \
- C:/Users/EASTPO~1/Desktop/SFMLGR~1/NIBBLE~1/headers/wall.hpp \
- C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/deque \
- C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_deque.h \
- C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/deque.tcc \
- C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/fstream \
- C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
- C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \
- C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/fstream.tcc
+ c:/SFML/include/SFML/Graphics/VertexBuffer.hpp

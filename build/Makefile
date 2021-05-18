@@ -128,102 +128,6 @@ nibbles/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/build
 .PHONY : nibbles/fast
 
-src/apple.obj: src/apple.cpp.obj
-.PHONY : src/apple.obj
-
-# target to build an object file
-src/apple.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/apple.cpp.obj
-.PHONY : src/apple.cpp.obj
-
-src/apple.i: src/apple.cpp.i
-.PHONY : src/apple.i
-
-# target to preprocess a source file
-src/apple.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/apple.cpp.i
-.PHONY : src/apple.cpp.i
-
-src/apple.s: src/apple.cpp.s
-.PHONY : src/apple.s
-
-# target to generate assembly for a file
-src/apple.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/apple.cpp.s
-.PHONY : src/apple.cpp.s
-
-src/draw.obj: src/draw.cpp.obj
-.PHONY : src/draw.obj
-
-# target to build an object file
-src/draw.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/draw.cpp.obj
-.PHONY : src/draw.cpp.obj
-
-src/draw.i: src/draw.cpp.i
-.PHONY : src/draw.i
-
-# target to preprocess a source file
-src/draw.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/draw.cpp.i
-.PHONY : src/draw.cpp.i
-
-src/draw.s: src/draw.cpp.s
-.PHONY : src/draw.s
-
-# target to generate assembly for a file
-src/draw.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/draw.cpp.s
-.PHONY : src/draw.cpp.s
-
-src/engine.obj: src/engine.cpp.obj
-.PHONY : src/engine.obj
-
-# target to build an object file
-src/engine.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/engine.cpp.obj
-.PHONY : src/engine.cpp.obj
-
-src/engine.i: src/engine.cpp.i
-.PHONY : src/engine.i
-
-# target to preprocess a source file
-src/engine.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/engine.cpp.i
-.PHONY : src/engine.cpp.i
-
-src/engine.s: src/engine.cpp.s
-.PHONY : src/engine.s
-
-# target to generate assembly for a file
-src/engine.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/engine.cpp.s
-.PHONY : src/engine.cpp.s
-
-src/input.obj: src/input.cpp.obj
-.PHONY : src/input.obj
-
-# target to build an object file
-src/input.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/input.cpp.obj
-.PHONY : src/input.cpp.obj
-
-src/input.i: src/input.cpp.i
-.PHONY : src/input.i
-
-# target to preprocess a source file
-src/input.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/input.cpp.i
-.PHONY : src/input.cpp.i
-
-src/input.s: src/input.cpp.s
-.PHONY : src/input.s
-
-# target to generate assembly for a file
-src/input.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/input.cpp.s
-.PHONY : src/input.cpp.s
-
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
@@ -248,78 +152,6 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
-src/snakesection.obj: src/snakesection.cpp.obj
-.PHONY : src/snakesection.obj
-
-# target to build an object file
-src/snakesection.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/snakesection.cpp.obj
-.PHONY : src/snakesection.cpp.obj
-
-src/snakesection.i: src/snakesection.cpp.i
-.PHONY : src/snakesection.i
-
-# target to preprocess a source file
-src/snakesection.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/snakesection.cpp.i
-.PHONY : src/snakesection.cpp.i
-
-src/snakesection.s: src/snakesection.cpp.s
-.PHONY : src/snakesection.s
-
-# target to generate assembly for a file
-src/snakesection.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/snakesection.cpp.s
-.PHONY : src/snakesection.cpp.s
-
-src/update.obj: src/update.cpp.obj
-.PHONY : src/update.obj
-
-# target to build an object file
-src/update.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/update.cpp.obj
-.PHONY : src/update.cpp.obj
-
-src/update.i: src/update.cpp.i
-.PHONY : src/update.i
-
-# target to preprocess a source file
-src/update.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/update.cpp.i
-.PHONY : src/update.cpp.i
-
-src/update.s: src/update.cpp.s
-.PHONY : src/update.s
-
-# target to generate assembly for a file
-src/update.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/update.cpp.s
-.PHONY : src/update.cpp.s
-
-src/wall.obj: src/wall.cpp.obj
-.PHONY : src/wall.obj
-
-# target to build an object file
-src/wall.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/wall.cpp.obj
-.PHONY : src/wall.cpp.obj
-
-src/wall.i: src/wall.cpp.i
-.PHONY : src/wall.i
-
-# target to preprocess a source file
-src/wall.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/wall.cpp.i
-.PHONY : src/wall.cpp.i
-
-src/wall.s: src/wall.cpp.s
-.PHONY : src/wall.s
-
-# target to generate assembly for a file
-src/wall.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/wall.cpp.s
-.PHONY : src/wall.cpp.s
-
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -329,30 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... nibbles
-	@echo ... src/apple.obj
-	@echo ... src/apple.i
-	@echo ... src/apple.s
-	@echo ... src/draw.obj
-	@echo ... src/draw.i
-	@echo ... src/draw.s
-	@echo ... src/engine.obj
-	@echo ... src/engine.i
-	@echo ... src/engine.s
-	@echo ... src/input.obj
-	@echo ... src/input.i
-	@echo ... src/input.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
-	@echo ... src/snakesection.obj
-	@echo ... src/snakesection.i
-	@echo ... src/snakesection.s
-	@echo ... src/update.obj
-	@echo ... src/update.i
-	@echo ... src/update.s
-	@echo ... src/wall.obj
-	@echo ... src/wall.i
-	@echo ... src/wall.s
 .PHONY : help
 
 
