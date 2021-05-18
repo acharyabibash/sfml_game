@@ -8,6 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/AssetMan.cpp" "CMakeFiles/nibbles.dir/src/AssetMan.cpp.obj" "gcc" "CMakeFiles/nibbles.dir/src/AssetMan.cpp.obj.d"
+  "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/StateMan.cpp" "CMakeFiles/nibbles.dir/src/StateMan.cpp.obj" "gcc" "CMakeFiles/nibbles.dir/src/StateMan.cpp.obj.d"
   "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/main.cpp" "CMakeFiles/nibbles.dir/src/main.cpp.obj" "gcc" "CMakeFiles/nibbles.dir/src/main.cpp.obj.d"
   )
 

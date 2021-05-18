@@ -128,6 +128,54 @@ nibbles/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/build
 .PHONY : nibbles/fast
 
+src/AssetMan.obj: src/AssetMan.cpp.obj
+.PHONY : src/AssetMan.obj
+
+# target to build an object file
+src/AssetMan.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/AssetMan.cpp.obj
+.PHONY : src/AssetMan.cpp.obj
+
+src/AssetMan.i: src/AssetMan.cpp.i
+.PHONY : src/AssetMan.i
+
+# target to preprocess a source file
+src/AssetMan.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/AssetMan.cpp.i
+.PHONY : src/AssetMan.cpp.i
+
+src/AssetMan.s: src/AssetMan.cpp.s
+.PHONY : src/AssetMan.s
+
+# target to generate assembly for a file
+src/AssetMan.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/AssetMan.cpp.s
+.PHONY : src/AssetMan.cpp.s
+
+src/StateMan.obj: src/StateMan.cpp.obj
+.PHONY : src/StateMan.obj
+
+# target to build an object file
+src/StateMan.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/StateMan.cpp.obj
+.PHONY : src/StateMan.cpp.obj
+
+src/StateMan.i: src/StateMan.cpp.i
+.PHONY : src/StateMan.i
+
+# target to preprocess a source file
+src/StateMan.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/StateMan.cpp.i
+.PHONY : src/StateMan.cpp.i
+
+src/StateMan.s: src/StateMan.cpp.s
+.PHONY : src/StateMan.s
+
+# target to generate assembly for a file
+src/StateMan.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/StateMan.cpp.s
+.PHONY : src/StateMan.cpp.s
+
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
@@ -161,6 +209,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... nibbles
+	@echo ... src/AssetMan.obj
+	@echo ... src/AssetMan.i
+	@echo ... src/AssetMan.s
+	@echo ... src/StateMan.obj
+	@echo ... src/StateMan.i
+	@echo ... src/StateMan.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
