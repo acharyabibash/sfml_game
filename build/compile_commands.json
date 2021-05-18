@@ -13,5 +13,10 @@
   "directory": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/build",
   "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\nibbles.dir\\src\\AssetMan.cpp.obj -c \"C:\\Users\\Eastpoint\\Desktop\\SFML Group\\nibbles-Homework\\src\\AssetMan.cpp\"",
   "file": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/AssetMan.cpp"
+},
+{
+  "directory": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\nibbles.dir\\src\\Game.cpp.obj -c \"C:\\Users\\Eastpoint\\Desktop\\SFML Group\\nibbles-Homework\\src\\Game.cpp\"",
+  "file": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/Game.cpp"
 }
 ]
