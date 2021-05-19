@@ -7,6 +7,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/nibbles.dir/src/GamePlay.cpp.obj.d"
   "CMakeFiles/nibbles.dir/src/MainMenu.cpp.obj"
   "CMakeFiles/nibbles.dir/src/MainMenu.cpp.obj.d"
+  "CMakeFiles/nibbles.dir/src/Snake.cpp.obj"
+  "CMakeFiles/nibbles.dir/src/Snake.cpp.obj.d"
   "CMakeFiles/nibbles.dir/src/StateMan.cpp.obj"
   "CMakeFiles/nibbles.dir/src/StateMan.cpp.obj.d"
   "CMakeFiles/nibbles.dir/src/main.cpp.obj"

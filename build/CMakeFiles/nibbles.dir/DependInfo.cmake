@@ -12,6 +12,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/Game.cpp" "CMakeFiles/nibbles.dir/src/Game.cpp.obj" "gcc" "CMakeFiles/nibbles.dir/src/Game.cpp.obj.d"
   "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/GamePlay.cpp" "CMakeFiles/nibbles.dir/src/GamePlay.cpp.obj" "gcc" "CMakeFiles/nibbles.dir/src/GamePlay.cpp.obj.d"
   "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/MainMenu.cpp" "CMakeFiles/nibbles.dir/src/MainMenu.cpp.obj" "gcc" "CMakeFiles/nibbles.dir/src/MainMenu.cpp.obj.d"
+  "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/Snake.cpp" "CMakeFiles/nibbles.dir/src/Snake.cpp.obj" "gcc" "CMakeFiles/nibbles.dir/src/Snake.cpp.obj.d"
   "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/StateMan.cpp" "CMakeFiles/nibbles.dir/src/StateMan.cpp.obj" "gcc" "CMakeFiles/nibbles.dir/src/StateMan.cpp.obj.d"
   "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/main.cpp" "CMakeFiles/nibbles.dir/src/main.cpp.obj" "gcc" "CMakeFiles/nibbles.dir/src/main.cpp.obj.d"
   )

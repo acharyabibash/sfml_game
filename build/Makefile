@@ -224,6 +224,30 @@ src/MainMenu.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/MainMenu.cpp.s
 .PHONY : src/MainMenu.cpp.s
 
+src/Snake.obj: src/Snake.cpp.obj
+.PHONY : src/Snake.obj
+
+# target to build an object file
+src/Snake.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/Snake.cpp.obj
+.PHONY : src/Snake.cpp.obj
+
+src/Snake.i: src/Snake.cpp.i
+.PHONY : src/Snake.i
+
+# target to preprocess a source file
+src/Snake.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/Snake.cpp.i
+.PHONY : src/Snake.cpp.i
+
+src/Snake.s: src/Snake.cpp.s
+.PHONY : src/Snake.s
+
+# target to generate assembly for a file
+src/Snake.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\nibbles.dir\build.make CMakeFiles/nibbles.dir/src/Snake.cpp.s
+.PHONY : src/Snake.cpp.s
+
 src/StateMan.obj: src/StateMan.cpp.obj
 .PHONY : src/StateMan.obj
 
@@ -293,6 +317,9 @@ help:
 	@echo ... src/MainMenu.obj
 	@echo ... src/MainMenu.i
 	@echo ... src/MainMenu.s
+	@echo ... src/Snake.obj
+	@echo ... src/Snake.i
+	@echo ... src/Snake.s
 	@echo ... src/StateMan.obj
 	@echo ... src/StateMan.i
 	@echo ... src/StateMan.s
