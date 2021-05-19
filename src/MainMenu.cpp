@@ -1,5 +1,4 @@
 #include "MainMenu.hpp"
-#include "GamePlay.hpp"
 
 #include <SFML/Window/Event.hpp>
 
@@ -116,7 +115,8 @@ void MainMenu::Update(sf::Time deltaTime)
 
     if(m_isPlayButtonPressed)
     {
-        m_context->m_states->Add(std::make_unique<GamePlay>(m_context), true);
+        // Todo:
+        // Go to Play State
     }
     else if(m_isExitButtonPressed)
     {

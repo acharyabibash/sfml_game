@@ -23,10 +23,5 @@
   "directory": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/build",
   "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\nibbles.dir\\src\\MainMenu.cpp.obj -c \"C:\\Users\\Eastpoint\\Desktop\\SFML Group\\nibbles-Homework\\src\\MainMenu.cpp\"",
   "file": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/MainMenu.cpp"
-},
-{
-  "directory": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/build",
-  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/nibbles.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles\\nibbles.dir\\src\\GamePlay.cpp.obj -c \"C:\\Users\\Eastpoint\\Desktop\\SFML Group\\nibbles-Homework\\src\\GamePlay.cpp\"",
-  "file": "C:/Users/Eastpoint/Desktop/SFML Group/nibbles-Homework/src/GamePlay.cpp"
 }
 ]
