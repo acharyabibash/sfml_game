@@ -230,6 +230,10 @@ CMakeFiles/nibbles.dir/src/GamePlay.cpp.obj: \
  C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/deque.tcc \
  C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_stack.h \
  C:/Users/EASTPO~1/Desktop/SFMLGR~1/NIBBLE~1/headers/State.hpp \
+ C:/Users/EASTPO~1/Desktop/SFMLGR~1/NIBBLE~1/headers/Snake.hpp \
+ C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/list \
+ C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_list.h \
+ C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/list.tcc \
  c:/SFML/include/SFML/Window/Event.hpp \
  c:/SFML/include/SFML/Window/Joystick.hpp \
  c:/SFML/include/SFML/Window/Keyboard.hpp \
